@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with how to actually become a programmer in the cyber space.
 - 💬 Ask me about how I pivoted from studying finance to working in IT:Cyber
 - 📫 How to reach me: Linkedin in description
+- Hello visual studio test
